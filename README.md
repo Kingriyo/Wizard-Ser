@@ -53,16 +53,6 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 </p>
 
 
-## Developers
-  <div align="center">
-
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
 
   
 
